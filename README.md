@@ -1,1 +1,2 @@
 # cot-4500-as2
+In this project, I coded four algorithms that are covered in chapter 3 of my Numerical Calculus class. Those algorithms include Neville's Method, Newton's Method, Divided Difference Method, and Cubic Spline Interpolation. The functions are under the main folder and the test cases are under the test folder. I used the script "python3 -m test.test_assignment_2" in the command line to run the code.
